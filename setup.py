@@ -8,12 +8,12 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='rpi-rf',
-    version='0.9.6',
+    version='0.9.7',
     author='Micha LaQua',
     author_email='micha.laqua@gmail.com',
     description='Sending and receiving 433/315MHz signals with low-cost GPIO RF modules on a Raspberry Pi',
     long_description=long_description,
-    url='https://github.com/milaq/rpi-rf',
+    url='https://github.com/giuseppeg88/rpi-rf',
     license='BSD',
     classifiers=[
         'Development Status :: 4 - Beta',
